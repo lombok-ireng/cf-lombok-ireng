@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://lombok-ireng.pages.dev/5/sitemap.xml
